@@ -3,7 +3,6 @@
 This project demonstrates how tickets move through a real IT support workflow using osTicket.  
 Instead of showing every small detail, this write-up focuses on the key actions that matter in real help desk environments, why they are important, and the skills learned from performing them.
 
----
 
 # What This Project Covers
 - Creating tickets from the end-user portal  
@@ -16,7 +15,6 @@ Instead of showing every small detail, this write-up focuses on the key actions 
 
 These steps simulate the full lifecycle a help desk agent follows.
 
----
 
 # Scenario 1 – Online Banking Outage (High Priority)
 

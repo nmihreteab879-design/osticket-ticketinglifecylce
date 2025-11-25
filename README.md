@@ -1,10 +1,10 @@
-# osTicket – Ticket Lifecycle and Help Desk Workflow
+### osTicket – Ticket Lifecycle and Help Desk Workflow
 
 This project demonstrates how tickets move through a real IT support workflow using osTicket.  
 Instead of showing every small detail, this write-up focuses on the key actions that matter in real help desk environments, why they are important, and the skills learned from performing them.
 
 
-# What This Project Covers
+### What This Project Covers
 - Creating tickets from the end-user portal  
 - Reviewing and classifying issues  
 - Setting the correct SLA and priority  
@@ -16,7 +16,7 @@ Instead of showing every small detail, this write-up focuses on the key actions 
 These steps simulate the full lifecycle a help desk agent follows.
 
 
-# Scenario 1 – Online Banking Outage (High Priority)
+### Scenario 1 – Online Banking Outage (High Priority)
 
 ### What Happened  
 A user submitted a ticket saying the entire mobile banking system was down.

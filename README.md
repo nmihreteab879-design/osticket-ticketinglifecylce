@@ -23,6 +23,7 @@ A user submitted a ticket saying the entire mobile banking system was down.
 
 ### Key Actions  
  <img width="759" height="948" alt="image" src="https://github.com/user-attachments/assets/49de5175-5723-4264-ac9b-e0c8e94a1576" />
+ 
 - created the ticket
   
  <img width="767" height="924" alt="image" src="https://github.com/user-attachments/assets/d3d4fa90-37ed-4c5e-8f99-47678b8d9548" />

@@ -108,7 +108,6 @@ A ticket was submitted because the CFO’s laptop would not turn on.
   <img width="1469" height="950" alt="image" src="https://github.com/user-attachments/assets/26b31f96-70ff-42a9-966f-08991559d275" />
 
 
-
 ### Why these actions Matter  
 Even simple problems become high impact when they involve critical users.  
 Learning to evaluate impact, not just the technical problem, is an important help desk skill.
@@ -120,25 +119,7 @@ Learning to evaluate impact, not just the technical problem, is an important hel
 - Professional communication and documentation  
 
 
-### Skills Demonstrated Throughout the Project
-
-### Technical Skills
-- Ticket lifecycle management  
-- SLA selection and priority assignment  
-- Troubleshooting hardware and software issues  
-- Routing tickets to correct teams  
-- Using help desk systems effectively  
-
-### Professional Skills
-- Clear written communication  
-- Understanding user impact  
-- Time management  
-- Following support workflows  
-- Documenting fixes for team visibility  
-
-
 ### Summary
 
-This project shows real help desk responsibilities: taking in user issues, classifying them correctly, troubleshooting problems, documenting everything, and closing tickets.  
-It demonstrates technical ability, communication skills, and the decision-making needed in an IT support role.
+This project shows real help desk responsibilities: taking in user issues, classifying them correctly, troubleshooting problems, documenting everything, and closing tickets. It demonstrates technical ability, communication skills, and the decision-making needed in an IT support role.
 
